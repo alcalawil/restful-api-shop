@@ -1,2 +1,8 @@
-#node modules
+# node modules
 node_modules
+
+# VSCode
+.vscode
+
+# secret
+nodemon.json
